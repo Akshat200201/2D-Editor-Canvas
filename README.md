@@ -8,6 +8,9 @@
 The **2D Canvas Editor** is a collaborative, browser-based design tool built with **React, Fabric.js, and Firebase Firestore**.  
 It allows users to **draw shapes, add text, choose colors, snap to a grid, and collaborate in real-time** by sharing a unique link.  
 
+<img width="1919" height="871" alt="Screenshot 2025-08-14 234159" src="https://github.com/user-attachments/assets/dfc6b03e-603b-4c7a-948d-a5de1e32b251" />
+
+
 ---
 
 ## ✨ Features  
