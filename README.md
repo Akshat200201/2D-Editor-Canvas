@@ -1,6 +1,6 @@
 # 🎨 2D Canvas Editor  
 
-🚀 **Live Demo:** [Click Here](https://2d-editor-canvas-3prsn0lnb-akshatnykz20-gmailcoms-projects.vercel.app/canvas/74o371smtvbehntdqrz3ds)  
+🚀 **Live Demo:** [Click Here](https://2d-editor-canvas-3prsn0lnb-akshatnykz20-gmailcoms-projects.vercel.app?_vercel_share=PFHLZzllFaM9TvJ28jDyeX6VBrNDKtGq)  
 
 ---
 
@@ -41,7 +41,7 @@ It allows users to **draw shapes, add text, choose colors, snap to a grid, and c
 The app is deployed on **Vercel** with SPA routing handled via `vercel.json` to prevent 404 errors on shared links.  
 
 🔗 **Live App:**  
-[https://2d-editor-canvas-3prsn0lnb-akshatnykz20-gmailcoms-projects.vercel.app/canvas/74o371smtvbehntdqrz3ds](https://2d-editor-canvas-3prsn0lnb-akshatnykz20-gmailcoms-projects.vercel.app/canvas/74o371smtvbehntdqrz3ds)  
+[https://2d-editor-canvas-3prsn0lnb-akshatnykz20-gmailcoms-projects.vercel.app/canvas/74o371smtvbehntdqrz3ds](https://2d-editor-canvas-3prsn0lnb-akshatnykz20-gmailcoms-projects.vercel.app?_vercel_share=PFHLZzllFaM9TvJ28jDyeX6VBrNDKtGq)  
 
 ---
 
