@@ -1,0 +1,107 @@
+.toolbar {
+  display: flex;
+  gap: 2rem;
+  padding: 1rem 2rem;
+  background-color: #fff;
+  border-bottom: 1px solid #ddd;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.tool-section {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.tool-section h3 {
+  margin: 0;
+  font-size: 0.9rem;
+  color: #666;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.tool-buttons {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.tool-btn {
+  padding: 0.5rem;
+  border: 2px solid #ddd;
+  border-radius: 6px;
+  background: #fff;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-size: 1.2rem;
+  min-width: 40px;
+  min-height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.tool-btn:hover {
+  border-color: #007bff;
+  background-color: #f8f9fa;
+}
+
+.tool-btn.active {
+  background-color: #007bff;
+  border-color: #007bff;
+  color: white;
+}
+
+.tool-btn.delete-btn:hover {
+  border-color: #dc3545;
+  background-color: #fff5f5;
+}
+
+.color-btn:hover {
+  border-color: #333;
+  transform: scale(1.1);
+}
+
+.color-palette {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  align-items: center;
+}
+
+
+.color-row {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.color-btn {
+  width: 24px;
+  height: 24px;
+  border: 1px solid #e5e7eb;
+  border-radius: 6px;
+}
+
+.color-picker {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 2px 6px;
+  border: 1px solid #e5e7eb;
+  border-radius: 6px;
+  background: #fff;
+  font-size: 12px;
+  margin-left: 6px;
+}
+
+.color-picker input[type="color"] {
+  appearance: none;
+  padding: 0;
+  border: none;
+  width: 24px;
+  height: 24px;
+  background: transparent;
+  cursor: pointer;
+}
