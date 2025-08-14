@@ -1,7 +1,7 @@
 # 🎨 2D Canvas Editor  
 
-🚀 **Live Demo:** [Click Here](https://2d-editor-canvas-3prsn0lnb-akshatnykz20-gmailcoms-projects.vercel.app?_vercel_share=PFHLZzllFaM9TvJ28jDyeX6VBrNDKtGq)  
-
+🚀 **Live:** [Click Here](https://2d-editor-canvas-3prsn0lnb-akshatnykz20-gmailcoms-projects.vercel.app?_vercel_share=PFHLZzllFaM9TvJ28jDyeX6VBrNDKtGq)  
+🚀 **Live Demo created by me(fully editable) :** [Click Here](https://2d-editor-canvas-3prsn0lnb-akshatnykz20-gmailcoms-projects.vercel.app/canvas/74o371smtvbehntdqrz3ds)  
 ---
 
 ## 📌 Overview  
